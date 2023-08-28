@@ -29,5 +29,3 @@ The code in this repository is available under the [MIT License](https://opensou
 ## Sample Report
 ![report](https://github.com/tanmaychk/AB-test-analysis/blob/0b19a2aef59e33e38401eb794bbfa6316ed10a80/report%20as%20png.png)
 
-## Disclaimer
-The code in this repository is provided as-is without any warranty. The author and the OpenAI organization are not responsible for any consequences that may arise from using this code. Use it at your own risk.
